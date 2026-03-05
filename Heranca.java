@@ -32,7 +32,7 @@ class Carro {
     }
 }
 
-public class Herança{
+public class Heranca{
     public static void main(String[]args){
         Carro.Trator meutrator = new Carro.Trator("Caterpillar", "Amarelo", 1999, 6, 2);
         Carro meucarro = new Carro("Jaguar", "Preto", 2020);
